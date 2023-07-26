@@ -1,5 +1,4 @@
 # DouglasG_Portfolio
-Data Analytics and Science Portfolio
 👋 Hi, I’m @EnigmaticPaladin or Douglas Green
 👀 I’m interested in ... tech/ai ethics, python, data analytics, data science, and programming.
 🌱 I’m currently learning ... more about tech/ai ethics, python, data analysis, data science, R, and artificial intelligence.
