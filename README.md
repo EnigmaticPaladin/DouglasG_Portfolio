@@ -1,7 +1,7 @@
 # DouglasG_Portfolio
 👋 Hi, I’m @EnigmaticPaladin or Douglas Green
-👀 I’m interested in ... tech/ai ethics, python, data analytics, data science, programming, and artificial intelligence.
-🌱 I’m currently learning ... more about tech/ai ethics, python, data analysis, data science, R, and artificial intelligence.
+👀 I’m interested in ... tech/ai ethics, trust/safety, data analytics, data science, programming, and artificial intelligence.
+🌱 I’m currently learning ... more about tech/ai ethics, python, trust/safety, data analysis, data science, and artificial intelligence.
 💞️ I’m looking to collaborate on ... my areas of interest,
 📫 How to reach me ... by email at Hemingwayan12@gmail.com
 
